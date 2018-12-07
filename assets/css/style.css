@@ -1,4 +1,10 @@
 body {
-    background-image: url("../images/galaxy.jpeg");
-    color: aliceblue;
+    background-image: url("../images/Quantum-Physics-Photo_0.jpg");
+    color: lightblue;
+    background-repeat: no-repeat 90%;
+    
+}
+
+.container {
+    
 }
