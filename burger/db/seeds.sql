@@ -1,7 +1,8 @@
--- work on the burgers_db
-USE `burgers_db`;
+INSERT INTO burgers (burger_name,devoured) 
+VALUES ('Veggie burger',false);
 
--- insert 3 burgers
--- INSERT INTO `burgers` (burger_name, devoured, date) VALUES ('Fish Fillet', false, CURRENT_TIMESTAMP);
--- INSERT INTO `burgers` (burger_name, devoured, date) VALUES ('Roast Beef', false, CURRENT_TIMESTAMP);
--- INSERT INTO `burgers` (burger_name, devoured, date) VALUES ('Quarter Pounder', false, CURRENT_TIMESTAMP);
+INSERT INTO burgers (burger_name,devoured) 
+VALUE ('Beans burger',false);
+
+INSERT INTO burgers (burger_name,devoured) 
+VALUES ('Avocado burger',false);
