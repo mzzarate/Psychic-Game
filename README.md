@@ -10,3 +10,4 @@
 4) When gueses left goes down to 0 user will get a loss, guesses left will reset, new letter is generated.
 5) If guessed correctly, the wins number will increase by 1 and the game will reset.
 >>>>>>> e013c2d3a4457b01a0ca805f834294bb831cb235
+# burgers25
